@@ -2,10 +2,10 @@
 
 class Person:
     # Class body goes here
-    def talk(ppp):
+    def talk(self):
         print("Hello World!")
     
-    def walk(ppp):
+    def walk(self):
         print("The person is walking.")
     #Instance method definition
 Jose = Person()
